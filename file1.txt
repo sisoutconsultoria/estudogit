@@ -1,1 +1,2 @@
 Adicionado texto no arquivo.
+Entendendo HEAD.
